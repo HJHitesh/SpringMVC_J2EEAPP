@@ -1,0 +1,3 @@
+com/spring/model/Task.class
+com/spring/repository/TaskRepository.class
+com/spring/controller/TaskController.class
